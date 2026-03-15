@@ -4,7 +4,7 @@ Aplicación web interactiva que implementa el **algoritmo de Dijkstra** para enc
 
 ## 📸 Capturas de Pantalla
 
-*(Aquí puedes agregar capturas de tu aplicación funcionando)*
+![alt text](image.png)
 
 ## 🚀 Características Principales
 
